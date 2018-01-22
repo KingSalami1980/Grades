@@ -1,0 +1,10 @@
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Grades.Tests.dll
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Grades.Tests.pdb
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Grades.exe
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Grades.pdb
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\bin\Debug\Grades.exe.config
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\obj\Debug\Grades.Tests.csprojResolveAssemblyReference.cache
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\obj\Debug\Grades.Tests.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\obj\Debug\Grades.Tests.dll
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades.Tests\obj\Debug\Grades.Tests.pdb

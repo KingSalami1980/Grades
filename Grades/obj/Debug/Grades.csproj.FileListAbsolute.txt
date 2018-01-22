@@ -1,0 +1,7 @@
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\bin\Debug\Grades.exe.config
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\bin\Debug\Grades.exe
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\bin\Debug\Grades.pdb
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\obj\Debug\Grades.csprojResolveAssemblyReference.cache
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\obj\Debug\Grades.csproj.CoreCompileInputs.cache
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\obj\Debug\Grades.exe
+C:\Development\Sandbox\CSharp-Fundamentals-with-Visual-Studio-2015\Grades\Grades\obj\Debug\Grades.pdb
